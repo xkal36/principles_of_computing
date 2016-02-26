@@ -7,8 +7,7 @@ import codeskulptor
 import math
 
 # Tile Images
-#IMAGENAME = "assets_2048.png"
-IMAGENAME  = "http://codeskulptor-assets.commondatastorage.googleapis.com/assets_2048.png"
+IMAGENAME = "assets_2048.png"
 TILE_SIZE = 100
 HALF_TILE_SIZE = TILE_SIZE / 2
 BORDER_SIZE = 45
